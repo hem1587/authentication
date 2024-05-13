@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "role": "admin",
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "admin123"
+      },
+      {
+        "id": 2,
+        "role": "patient",
+        "name": "Patient One",
+        "email": "patient1@example.com",
+        "password": "patient123"
+      },
+      {
+        "id": 3,
+        "role": "patient",
+        "name": "Patient Two",
+        "email": "patient2@example.com",
+        "password": "patient456"
+      },
+      {
+        "id": 4,
+        "role": "doctor",
+        "name": "Dr. John Smith",
+        "email": "johnsmith@example.com",
+        "password": "doctor123"
+      },
+      {
+        "id": 5,
+        "role": "doctor",
+        "name": "Dr. Emily Johnson",
+        "email": "emilyjohnson@example.com",
+        "password": "doctor456"
+      }
+    ]
+  }
+  
